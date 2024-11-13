@@ -1,1 +1,1 @@
-# BookstoreDjango
+# Интернет-магазин книг на Django
